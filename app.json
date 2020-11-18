@@ -6,7 +6,7 @@
     "orientation": "portrait",
     "icon": "./assets/clip.png",
     "splash": {
-      "image": "./assets/group3.png",
+      "image": "./assets/IMUSensor.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
