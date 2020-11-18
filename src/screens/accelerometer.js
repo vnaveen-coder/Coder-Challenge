@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Text,SafeAreaView,View, StyleSheet,TouchableOpacity } from 'react-native';
+import { Text,View, StyleSheet,TouchableOpacity } from 'react-native';
 import {
     Accelerometer,
 } from 'expo-sensors';
