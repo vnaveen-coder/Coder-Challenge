@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "imudata",
+    "name": "IMU's Sensors Data",
     "slug": "imudata",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/clip.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/group3.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
