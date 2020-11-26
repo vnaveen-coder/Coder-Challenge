@@ -1,6 +1,6 @@
 # Coder-Challenge
 ### Description : 
-  This project is a simple React Native built application which fetches data from sensors like Inertial Measurement Unit (IMU) and Global Positioning System (GPS) and present it.
+  This project is a React Native built application which fetches data from sensors like Inertial Measurement Unit (IMU) and Global Positioning System (GPS) and present it.
   
 #### Steps to be followed :
 1. Install node in your system.
